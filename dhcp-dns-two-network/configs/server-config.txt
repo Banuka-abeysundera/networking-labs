@@ -1,0 +1,15 @@
+IP: 192.168.2.2
+Gateway: 192.168.2.1
+
+DHCP:
+Pool Name: CLIENT_LAN
+Default Gateway: 192.168.1.1
+DNS Server: 192.168.2.2
+Start IP: 192.168.1.10
+Subnet Mask: 255.255.255.0
+
+DNS:
+company.local → 192.168.2.2
+
+HTTP:
+Enabled
