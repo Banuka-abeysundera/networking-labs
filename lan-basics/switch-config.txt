@@ -1,0 +1,23 @@
+vlan 10
+name SALES
+
+vlan 20
+name IT
+
+vlan 30
+name MGMT
+
+interface range fa0/1-2
+switchport mode access
+switchport access vlan 10
+
+interface range fa0/3-4
+switchport mode access
+switchport access vlan 20
+
+interface fa0/6
+switchport mode access
+switchport access vlan 30
+
+interface fa0/5
+switchport mode trunk
