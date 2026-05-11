@@ -100,7 +100,8 @@ The network remained operational using the remaining active link.
 
 ## Issue
 EtherChannel link failure (red status lights) after re-inserting a physical cable. Even though the configuration was correct, the switch "suspended" the port when the cable was reconnected, preventing it from joining the logical bundle.
-![Connection failover](images/failover-test.png)
+
+![Connection failover](images/failure-state.png)
 
 ## Cause
 Protocol Desynchronization.
