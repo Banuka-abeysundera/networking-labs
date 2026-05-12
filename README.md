@@ -14,7 +14,7 @@ The goal of this challenge is to improve practical networking knowledge, build c
 - Build practical network labs
 - Document networking progress consistently
 - Develop enterprise-style network projects
-
+ 
 ---
 
 ## Tools Used
