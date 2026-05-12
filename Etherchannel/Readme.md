@@ -1,5 +1,3 @@
-# Day 05 - EtherChannel (LACP)
-
 ## Objective
 The objective of this lab was to configure EtherChannel using LACP between two switches to improve redundancy and network reliability.
 
