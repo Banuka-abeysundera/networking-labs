@@ -3,7 +3,7 @@
 
 This repository documents my 30-day journey to strengthen my networking and CCNA-level practical skills through hands-on labs, troubleshooting exercises, and enterprise-style network projects.
 
-The goal of this challenge is to improve practical networking knowledge, build consistency, and create a portfolio that reflects real-world junior network engineer skills.
+The goal of this challenge is to improve practical networking knowledge, build consistency, and create a portfolio that reflects real-world junior network engineer skills. 
 
 ---
 
