@@ -50,8 +50,9 @@ clock rate 64000
 no shutdown
 
 ip route 192.168.20.0 255.255.255.0 10.0.0.2
----
+
 ```
+---
 
 # Router2 Configuration
 
