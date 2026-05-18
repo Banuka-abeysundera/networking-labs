@@ -107,8 +107,6 @@ Used traceroute to observe packet traversal through routers across the WAN conne
 ## Resolution
 Verified routing tables, interface states, and route configurations using router verification commands.
 
-![Troubleshooting](screenshots/troubleshooting.png)
-
 ---
 
 # What I Learned
@@ -124,4 +122,4 @@ Verified routing tables, interface states, and route configurations using router
 - Packet Tracer lab
 - Configuration file
 - Verification screenshots
-- Troubleshooting screenshots
+
