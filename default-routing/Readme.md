@@ -77,7 +77,7 @@ Configured a default route on Router1 to forward unknown traffic toward the ISP 
 ip route 0.0.0.0 0.0.0.0 10.0.0.2
 ```
 
-![Gateway of Last Resort](images/gateway-of-last-resort.png)
+![Gateway of Last Resort](images/Gateway-of-last-resort.png)
 
 ---
 
