@@ -16,7 +16,7 @@ The objective of this lab was to configure EtherChannel using LACP between two s
 - Redundancy
 - Failover testing
 - Troubleshooting
-
+ 
 ---
 
 # VLAN Configuration
