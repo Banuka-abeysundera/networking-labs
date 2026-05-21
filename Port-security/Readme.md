@@ -8,7 +8,7 @@ The objective of this lab was to configure Port Security on switch interfaces to
 
 ---
 
-# Topics Covered
+# Topics Covered 
 - Port Security
 - Sticky MAC addresses
 - MAC address learning
