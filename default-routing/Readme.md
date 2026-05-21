@@ -10,7 +10,7 @@ The objective of this lab was to configure default routing between a branch offi
 ![Topology](images/topology.png)
 
 ---
-
+ 
 # Network Scenario
 
 This lab simulated a small branch office network accessing external resources through an ISP router using a default route.
