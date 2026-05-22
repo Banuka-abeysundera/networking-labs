@@ -8,7 +8,7 @@ To simulate enterprise internet access using NAT/PAT and allow multiple internal
 ## 🧱 Topology
 - 2 Routers
 - 2 Switches
-- 4 Client PCs
+- 4 Client PCs 
 - 1 Internet Server 
 
 ![Topology](images/topology.png)
