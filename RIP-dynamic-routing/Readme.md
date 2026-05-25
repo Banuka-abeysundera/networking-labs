@@ -113,7 +113,7 @@ inside routing tables.
 
 Verified successful communication between remote LAN networks using ping tests.
 
-![Successful Ping](images/successful-ping.png)
+![Successful Ping](images/sucessful-ping.png)
 
 ---
 
