@@ -10,7 +10,7 @@ To design a network with separate client and server segments, implementing DHCP 
 - 3 Client PCs
 
 ![Topology](images/topology.png)
-
+ 
 ## 🌐 Network Design
 
 ### Client Network
