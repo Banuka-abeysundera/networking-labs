@@ -7,7 +7,7 @@ The objective of this lab was to configure static routing between two routers to
 
 # Topology
 
-![Topology](images/topology.png)
+![Topology](images/topology.png) 
 
 ---
 
