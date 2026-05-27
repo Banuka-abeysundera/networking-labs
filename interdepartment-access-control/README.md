@@ -1,9 +1,9 @@
 # Interdepartment Access Control Lab
 
-## 📌 Objective
+## Objective
 To implement Access Control Lists (ACLs) to enforce communication restrictions between departments in a small office network.
 
-## 🧱 Topology
+## Topology
 - 1 Router
 - 2 Switches
 - 4 Client PCs
@@ -13,7 +13,7 @@ To implement Access Control Lists (ACLs) to enforce communication restrictions b
 
 ---
 
-## 🌐 Network Design
+## Network Design
 
 | Department | Network |
 |---|---|
@@ -23,7 +23,7 @@ To implement Access Control Lists (ACLs) to enforce communication restrictions b
 
 ---
 
-## ⚙️ Configuration Summary
+## Configuration Summary
 
 ### Router
 - Configured routing between multiple networks
@@ -35,7 +35,7 @@ To implement Access Control Lists (ACLs) to enforce communication restrictions b
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Sales Department Access
 ![Sales Blocked](images/sales-blocked.png)
@@ -54,7 +54,7 @@ To implement Access Control Lists (ACLs) to enforce communication restrictions b
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Issue
 All traffic became blocked after ACL implementation.
@@ -68,14 +68,14 @@ permit ip any any
 
 ---
 
-## 📁 Configuration Files
+## Configuration Files
 
 Router configuration available in:
 configs/router-config.txt
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
 - Learned the difference between Standard ACLs and Extended ACLs  
 - Understood how Extended ACLs filter traffic using both source and destination networks  
