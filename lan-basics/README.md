@@ -3,7 +3,7 @@
 ## Objective
 To design and configure a small Local Area Network (LAN) using a router as the default gateway.
 
-## Topology
+## Topology 
 - 1 Router (2911)
 - 1 Switch (2960)
 - 3 PCs
