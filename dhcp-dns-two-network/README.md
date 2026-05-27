@@ -1,9 +1,9 @@
 # DHCP + DNS Lab - Two Network Design
 
-## 📌 Objective
+## Objective
 To design a network with separate client and server segments, implementing DHCP for automatic IP assignment and DNS for name resolution across networks.
 
-## 🧱 Topology
+## Topology
 - 1 Router
 - 2 Switches
 - 1 Server (DHCP + DNS + HTTP)
@@ -11,7 +11,7 @@ To design a network with separate client and server segments, implementing DHCP 
 
 ![Topology](images/topology.png)
  
-## 🌐 Network Design
+## Network Design
 
 ### Client Network
 - Network: 192.168.1.0/24
@@ -21,7 +21,7 @@ To design a network with separate client and server segments, implementing DHCP 
 - Network: 192.168.2.0/24
 - Server IP: 192.168.2.2
 
-## ⚙️ Configuration Summary
+## Configuration Summary
 
 ### Router
 - Configured two interfaces for separate networks
@@ -36,7 +36,7 @@ To design a network with separate client and server segments, implementing DHCP 
 ### Clients
 - Configured to obtain IP automatically using DHCP
 
-## 🧪 Testing
+## Testing
 
 ### IP Assignment
 ![IP Config](images/ipconfig.png)
@@ -47,7 +47,7 @@ To design a network with separate client and server segments, implementing DHCP 
 ### Web Access
 ![Web](images/web-access.png)
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Issue:
 Clients were not receiving IP addresses
@@ -58,7 +58,7 @@ Missing DHCP relay configuration on router
 ### Fix:
 Configured `ip helper-address` to forward DHCP requests to the server
 
-## 📚 Key Learnings
+## Key Learnings
 - DHCP can operate across networks using relay  
 - DNS enables name-based communication  
 - Network services depend on correct routing and configuration  
