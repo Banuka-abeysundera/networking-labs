@@ -203,5 +203,4 @@ Client-facing interfaces remained untrusted.
 - Packet Tracer lab
 - Configuration file
 - Verification outputs
-- Troubleshooting evidence
 - Network screenshots
