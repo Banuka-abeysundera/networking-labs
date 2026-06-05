@@ -164,7 +164,6 @@ no ip dhcp snooping information option
 
 After disabling Option 82 insertion on the core switch, DHCP clients successfully obtained addresses from the legitimate DHCP server and DAI deployment proceeded successfully.
 
-![Option 82 Troubleshooting](images/option82-troubleshooting.png)
 
 ---
 
@@ -182,8 +181,6 @@ Trusted interfaces included:
 - Switch uplink
 
 Client-facing interfaces remained untrusted.
-
-![Trusted Interfaces](images/trusted-interfaces.png)
 
 ---
 
